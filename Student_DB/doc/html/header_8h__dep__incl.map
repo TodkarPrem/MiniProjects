@@ -1,0 +1,10 @@
+<map id="/home/premraj/training/projects/Student_DB/inc/header.h" name="/home/premraj/training/projects/Student_DB/inc/header.h">
+<area shape="rect" id="node2" href="$add_8c.html" title="Function used to add student record. " alt="" coords="5,117,211,158"/>
+<area shape="rect" id="node3" href="$delete_8c.html" title="Function used to delete student records from database. " alt="" coords="235,109,405,165"/>
+<area shape="rect" id="node4" href="$main_8c.html" title="Application program. " alt="" coords="429,109,598,165"/>
+<area shape="rect" id="node5" href="$modify_8c.html" title="Function used to modify student record. " alt="" coords="622,109,791,165"/>
+<area shape="rect" id="node6" href="$print__SDB_8c.html" title="Function used to print student records. " alt="" coords="815,109,985,165"/>
+<area shape="rect" id="node7" href="$readfile_8c.html" title="Function used to read database. " alt="" coords="1009,109,1178,165"/>
+<area shape="rect" id="node8" href="$search_8c.html" title="Function used to search student record. " alt="" coords="1202,109,1371,165"/>
+<area shape="rect" id="node9" href="$sort_8c.html" title="Function used to sort student database. " alt="" coords="1395,109,1565,165"/>
+</map>
